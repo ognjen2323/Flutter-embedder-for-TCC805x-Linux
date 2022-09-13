@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iwedia-cps/install/include/wayland-util.h
+math.h
+-
+stddef.h
+-
+inttypes.h
+-
+stdarg.h
+-
+
+/home/iwedia-cps/ivi-homescreen/build/shell/agl-shell-client-protocol.c
+stdlib.h
+-
+stdint.h
+-
+wayland-util.h
+/home/iwedia-cps/ivi-homescreen/build/shell/wayland-util.h
+
+/home/iwedia-cps/ivi-homescreen/build/shell/xdg-shell-client-protocol.c
+stdlib.h
+-
+stdint.h
+-
+wayland-util.h
+/home/iwedia-cps/ivi-homescreen/build/shell/wayland-util.h
+

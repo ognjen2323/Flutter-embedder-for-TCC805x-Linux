@@ -1,0 +1,2 @@
+"/home/iwedia-cps/sdk_telechips/sysroots/x86_64-oesdk-linux/usr/bin/aarch64-telechips-linux/aarch64-telechips-linux-gcc-ar" cr libfoo.a  CMakeFiles/foo.dir/foo.cpp.o
+"/home/iwedia-cps/sdk_telechips/sysroots/x86_64-oesdk-linux/usr/bin/aarch64-telechips-linux/aarch64-telechips-linux-gcc-ranlib" libfoo.a

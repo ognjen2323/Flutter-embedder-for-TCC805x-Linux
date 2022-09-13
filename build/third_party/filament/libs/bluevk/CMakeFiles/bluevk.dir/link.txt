@@ -1,0 +1,2 @@
+aarch64-telechips-linux-gcc-ar qc libbluevk.a  CMakeFiles/bluevk.dir/src/BlueVK.cpp.o CMakeFiles/bluevk.dir/src/BlueVKLinuxAndroid.cpp.o
+/home/iwedia-cps/sdk_telechips/sysroots/x86_64-oesdk-linux/usr/bin/aarch64-telechips-linux/aarch64-telechips-linux-ranlib libbluevk.a

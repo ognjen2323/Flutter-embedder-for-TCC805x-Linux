@@ -1,0 +1,2 @@
+/home/iwedia-cps/ivi-homescreen/build/out/usr/local/lib/libbluevk.a
+/home/iwedia-cps/ivi-homescreen/build/out/usr/local/bin/homescreen

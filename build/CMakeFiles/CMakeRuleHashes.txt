@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+318c34ce17d7dbf7e4cddf19fb9c73fe shell/agl-shell-client-protocol.c
+e20f395b14561cd3c914183aede0bfd2 shell/agl-shell-client-protocol.h
+5acd6406b982daa3efdf6ee385b580a4 shell/xdg-shell-client-protocol.c
+213a1306aeb3945c7651ac86f01028c1 shell/xdg-shell-client-protocol.h
